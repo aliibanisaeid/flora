@@ -1,0 +1,7 @@
+node_modules/
+dist/
+*.tsbuildinfo
+.DS_Store
+work/
+assets/source/unused-iterations/
+assets/source/woshe-reference/
